@@ -1,0 +1,14 @@
+﻿global using MediportaSOTags.Data;
+global using MediportaSOTags.Interfaces;
+global using MediportaSOTags.Services;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.OpenApi.Models;
+global using MediportaSOTags.DTOs;
+global using MediportaSOTags.Entities;
+global using MediportaSOTags.Extensions;
+global using MediportaSOTags.Helpers;
+global using Microsoft.AspNetCore.Mvc;
+global using AutoMapper;
+global using AutoMapper.QueryableExtensions;
+global using System.Text.Json;
+global using MediportaSOTags.Models;

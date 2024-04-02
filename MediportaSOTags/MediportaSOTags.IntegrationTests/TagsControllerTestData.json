@@ -1,0 +1,52 @@
+[
+  {
+    "count": 337857,
+    "name": ".net",
+    "percentPart": 1.03
+  },
+  {
+    "count": 222018,
+    "name": "ajax",
+    "percentPart": 0.67
+  },
+  {
+    "count": 120564,
+    "name": "algorithm",
+    "percentPart": 0.37
+  },
+  {
+    "count": 158368,
+    "name": "amazon-web-services",
+    "percentPart": 0.48
+  },
+  {
+    "count": 1417118,
+    "name": "android",
+    "percentPart": 4.30
+  },
+  {
+    "count": 90552,
+    "name": "android-studio",
+    "percentPart": 0.27
+  },
+  {
+    "count": 304080,
+    "name": "angular",
+    "percentPart": 0.92
+  },
+  {
+    "count": 262747,
+    "name": "angularjs",
+    "percentPart": 0.80
+  },
+  {
+    "count": 92455,
+    "name": "apache",
+    "percentPart": 0.28
+  },
+  {
+    "count": 100954,
+    "name": "api",
+    "percentPart": 0.31
+  }
+]
