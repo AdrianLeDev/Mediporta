@@ -10,6 +10,7 @@ ENV PATH="${PATH}:/root/.dotnet/tools"
 RUN dotnet ef database update -p "MediportaSOTags/MediportaSOTags.csproj"
 RUN dotnet publish "MediportaSOTags/MediportaSOTags.csproj" -c Release -o out
 
+RUN dotnet test --logger:trx
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
