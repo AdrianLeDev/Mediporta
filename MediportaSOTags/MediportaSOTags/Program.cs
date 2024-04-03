@@ -47,7 +47,7 @@ try
     var context = services.GetRequiredService<AppDbContext>();
     var tagsService = services.GetRequiredService<ISOTagsService>();
     var tagsRepo = services.GetRequiredService<ITagsRepo>();
-    DBSeed.Seed(context, tagsService, tagsRepo);
+    DBSeed.Seed(context, tagsService, tagsRepo, app.Logger);
 }
 catch (Exception ex)
 {

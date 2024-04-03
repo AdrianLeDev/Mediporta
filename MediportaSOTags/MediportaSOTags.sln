@@ -5,9 +5,9 @@ VisualStudioVersion = 17.8.34219.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediportaSOTags", "MediportaSOTags\MediportaSOTags.csproj", "{8043B6DD-DC90-47E1-A912-DC8DF8DB204C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediportaSOTags.UnitTests", "MediportaSOTags.UnitTests\MediportaSOTags.UnitTests.csproj", "{4EB3AE3A-1C8A-4F09-87BD-86A68EA64CAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediportaSOTags.UnitTests", "MediportaSOTags.UnitTests\MediportaSOTags.UnitTests.csproj", "{4EB3AE3A-1C8A-4F09-87BD-86A68EA64CAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediportaSOTags.IntegrationTests", "MediportaSOTags.IntegrationTests\MediportaSOTags.IntegrationTests.csproj", "{3391DB7F-A4F7-4181-8717-1C666EF65294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediportaSOTags.IntegrationTests", "MediportaSOTags.IntegrationTests\MediportaSOTags.IntegrationTests.csproj", "{3391DB7F-A4F7-4181-8717-1C666EF65294}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
