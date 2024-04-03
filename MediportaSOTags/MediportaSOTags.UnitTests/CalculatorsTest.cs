@@ -1,5 +1,3 @@
-using FluentAssertions;
-using MediportaSOTags;
 using MediportaSOTags.Helpers;
 namespace MediportaSOTags.UnitTests
 {

@@ -1,10 +1,3 @@
-using MediportaSOTags.Data;
-using MediportaSOTags.DTOs;
-using Microsoft.AspNetCore.Mvc.Testing;
-using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
-using FluentAssertions;
-
 namespace MediportaSOTags.IntegrationTests
 {
     public class TagsControllerTests : IClassFixture<WebApplicationFactory<Program>>
